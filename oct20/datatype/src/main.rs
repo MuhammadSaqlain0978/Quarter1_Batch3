@@ -12,3 +12,4 @@ fn main() {
     let rent = 36_000u16;
     println!("Rent is : {}",rent);
 }
+
